@@ -1,3 +1,5 @@
+# THANKS TO https://github.com/sarattall FOR AUTHORING MOST OF THIS CODE
+
 from selenium import webdriver
 from selenium.webdriver.support.ui import Select
 from flask import Flask

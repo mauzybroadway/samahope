@@ -1,0 +1,1399 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>Doctors | Samahope</title>
+
+  <!--                                    _
+                ___  __ _ _ __ ___   __ _| |__   ___  _ __   ___
+               / __|/ _` | '_ ` _ \ / _` | '_ \ / _ \| '_ \ / _ \
+               \__ \ (_| | | | | | | (_| | | | | (_) | |_) |  __/
+               |___/\__,_|_| |_| |_|\__,_|_| |_|\___/| .__/ \___|
+             ___ _____   _____   _  _  ___  ___ ___  | |
+            / __|_ _\ \ / / __| | || |/ _ \| _ \ __| |_|
+           | (_ || | \ V /| _|  | __ | (_) |  _/ _|
+            \___|___| \_/ |___| |_||_|\___/|_| |___|
+
+                 ~ Want to use your skills for good? ~
+                          samahope.org/jobs
+                                                                             -->
+
+  <link rel="icon" sizes="32x32" href="http://www.samahope.org/wp-content/themes/samahope-underscore/favicon.ico?v=6">
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.samahope.org/wp-content/themes/samahope-underscore/apple-touch-icon-144x144-precomposed.png">
+  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.samahope.org/wp-content/themes/samahope-underscore/apple-touch-icon-114x114-precomposed.png">
+  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.samahope.org/wp-content/themes/samahope-underscore/apple-touch-icon-72x72-precomposed.png">
+  <link rel="apple-touch-icon-precomposed" href="http://www.samahope.org/wp-content/themes/samahope-underscore/apple-touch-icon-precomposed.png">
+  <link rel="stylesheet" type="text/css" media="all" href="http://www.samahope.org/wp-content/themes/samahope-underscore/dist/style.css?v=5">
+  <script type="text/javascript" src="http://cdn.optimizely.com/js/338017935.js"></script>
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.4.24 - http://yoast.com/wordpress/seo/ -->
+<link rel="canonical" href="http://www.samahope.org/doctors/" />
+<link rel="next" href="http://www.samahope.org/doctors/page/2/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Doctors - Samahope" />
+<meta property="og:url" content="http://www.samahope.org/doctors/" />
+<meta property="og:site_name" content="Samahope" />
+<!-- / Yoast WordPress SEO plugin. -->
+
+
+            <script type="text/javascript">//<![CDATA[
+            // Google Analytics for WordPress by Yoast v4.3.5 | http://yoast.com/wordpress/google-analytics/
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-24763121-1']);
+				            _gaq.push(['_trackPageview']);
+            (function () {
+                var ga = document.createElement('script');
+                ga.type = 'text/javascript';
+                ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(ga, s);
+            })();
+            //]]></script>
+			<script type='text/javascript' src='http://www.samahope.org/wp-includes/js/jquery/jquery.js?ver=1.11.1'></script>
+<script type='text/javascript' src='http://www.samahope.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+</head>
+
+<body class="archive category category-doctors category-3 doctors usa not-home">
+
+
+<div class="modal modal_effect" id="md_vday-socola">
+  <div class="modal_content">
+    <h2>Socola Chocolatier</h2>
+    <p>
+      <a href="#" class="icon-button modal_close">
+        <i class="ss-delete close-button icon-circle"></i>
+      </a>
+      To receive 10% off your order of any item and ensure that 10% of your 
+      purchase will be donated back to Samahope, use the following code at checkout:
+      <code class="big">samahope</code>
+    </p>
+    <a href="http://www.socolachocolates.com/collections/chocolate-truffles" class="button primary" target="_blank">Visit Socola</a>
+  </div>
+</div>
+
+<div class="modal modal_effect" id="md_vday-farmgirl">
+  <div class="modal_content">
+    <h2>Farmgirl Flowers</h2>
+    <p>
+      <a href="#" class="icon-button modal_close">
+        <i class="ss-delete close-button icon-circle"></i>
+      </a>
+      To receive your promo code for 20% off your next Farmgirl Flowers order,
+      click the following button and make a donation to Samahope (suggested 
+      minimum donation of $5). Within 24 hours of your donation, you'll receive 
+      an email from us with your promo code to use for your next Farmgirl
+      Flowers order.
+    </p>
+    <a href="http://www.samahope.org/donate/?ref=vday-farmgirl" class="button primary">Donate to receive 20% off</a>
+  </div>
+</div>
+
+<div class="modal modal_effect" id="md_gala-giftcard">
+  <div class="modal_content">
+    <img src="http://www.samahope.org/wp-content/themes/samahope-underscore/images/temp/gift-card-popout.png" width="330" height="100" alt="2013 Samasource Gala" class="gift-card_popout">
+    <h2>Welcome, Samasource Gala Attendees!</h2>
+    <p>
+      <a href="#" class="icon-button modal_close">
+        <i class="ss-delete close-button icon-circle"></i>
+      </a>
+      To redeem the gift card you received at the Gala, 
+      <a href="http://www.samahope.org/doctors">find a doctor you'd like to 
+      support</a> and enter your gift card code during the checkout process.
+
+      <img src="http://www.samahope.org/wp-content/themes/samahope-underscore/images/temp/gift-card-screenshot.png" width="450" height="130" alt="Fill out your gift card code" class="gift-card_screenshot">
+    </p>
+  </div>
+</div>
+
+
+<div class="modal modal_effect iframe-modal" id="md_doc-video">
+  <div class="modal_content __borderless">
+    <iframe class="alignright" width="600" height="371" src="//www.youtube.com/embed/?rel=0" frameborder="0" allowfullscreen></iframe>
+    <a href="#" class="icon-button modal_close">
+      <i class="ss-delete close-button icon-circle"></i>
+    </a>
+  </div>
+</div>
+
+<div class="modal modal_effect iframe-modal" id="md_homepage">
+  <div class="modal_content __borderless">
+    <iframe class="alignright" width="600" height="371" src="//www.youtube.com/embed/kBB2DOXLkQ4?rel=0" frameborder="0" allowfullscreen></iframe>
+    <a href="#" class="icon-button modal_close">
+      <i class="ss-delete close-button icon-circle"></i>
+    </a>
+  </div>
+</div>
+
+
+<div id="page" class="hfeed site wrapper">
+  <div id="fb-root"></div>
+    
+    <div class="top-nav_wrap">
+    <nav class="top-nav">
+      <div class="row">
+
+        <div class="top-nav_logo-wrap">
+          <a href="http://www.samahope.org/" class="top-nav_logo flip" title="Samahope" rel="home">
+            <span class="card">
+              <span class="face front"></span>
+              <span class="face back"></span>SamaHope
+            </span>
+          </a>
+          <span class="spacer"></span>
+        </div>
+
+        <div class="top-nav_cta-wrap">
+          <div class="cta">
+                                    <a href="http://www.samahope.org/donate/?doc=doctor-shukri-and-naima" class="button primary __fixed-height">Fund Doctors' Work</a>
+                        <span class="button_sub-text">Donate directly to Doctors</span>
+          </div>
+        </div>
+        
+        <div class="top-nav_nav-wrap">
+          <div class="center-wrap">
+            <ul class="main-navigation centered">
+              <li class="one"><a href="http://www.samahope.org/doctors">Our Doctors</a></li>
+              <li class="two"><a href="http://www.samahope.org/about">About Us</a></li>
+              <li class="three"><a href="http://www.samahope.org/blog">Blog</a></li>
+            </ul>
+          </div>
+        </div>
+
+      </div>
+    </nav>
+  </div>
+  
+  <div class="row">
+    <div id="content" class="site-content">
+      <div class="small-12 large-12 columns">
+  <section id="primary" class="content-area">
+    <main id="main" class="site-main" role="main">
+
+      <section class="moat text-center">
+        <header class="entry-title">
+          <h2>Donate to Doctors that need your help to reach more patients</h2>
+        </header>
+      </section>
+
+      <div class="hr"></div>
+      
+        
+  <article id="post-2032" class="post-2032 post type-post status-publish format-standard has-post-thumbnail hentry category-doctors category-sub-saharan-africa doctors sub-saharan-africa not-home">
+    <div class="row margin-auto">
+
+      <section class="doctor-tile moat">
+
+        <section class="progress-bar_wrap">
+            <div class="progress-bar" title="5,743.09 raised towards the next treatment. 14 treatments funded so far.">            <span class="progress-unit" style="width: 100%;"></span>            <div class="progress-fill" style="width: 51.29%;"></div>
+          </div>
+        </section>
+
+        <div class="small-12 medium-9 columns content-column">
+          <header class="entry-header">
+            <div class="row">
+              <div class="small-12 medium-4 columns progress-bar_helper">
+                <span>
+                  $207 more needed
+                </span>
+              </div>
+              <div class="small-12 medium-8 columns doctor-tile_title">
+                <h1 class="entry-title"><a href="http://www.samahope.org/doctor-shukri-and-naima/" rel="bookmark">Dr. Shukri and Dr. Naima</a></h1>
+              </div>
+            </div>
+          </header><!-- .entry-header -->
+
+          <section>
+            <p><strong>Among the first female doctors in Somaliland </strong></p>
+<p>My name is Dr. Shukri Mohamed Dahir and sitting next to me is Dr. Naima Ahmed Mohamed. We are both doctors: we went to Medical School together and are now working as a &hellip;</p>
+          </section>
+
+          <div class="row margin-auto">
+            <div class="small-12 medium-6 columns">
+                            <section>
+                <div class="treatment-focus">
+  <div class="row">
+        <div class="small-3 columns treatment_badge">
+      <img class="badge birth-injuries" src="/wp-content/themes/samahope-underscore/images/icon-birth-injuries@2x.png" width="120" height="120">
+    </div>
+    <div class="small-9 columns treatment_description">
+      <h3>Birth Injuries Focus</h3>
+      <p>
+        Our focus is on providing safe births and caesarean sections for mothers. 
+        In Somaliland most mothers do not receive prenatal care. As a result, 
+        they often have unknown problems such as anemia, diabetes or hypertension 
+        that go untreated. Sometimes more serious issues develop, such as 
+        obstructed labor; in these cases, we do a surgical procedure known as a 
+        caesarian section, which involves making an incision through the mother's 
+        abdomen to deliver the baby.
+      </p>
+      <a href="#" class="show-toggle" rel="treatment-cost">
+        <i class="ss-plus plus-minus icon-circle"></i>
+        <span class="text">Show</span> cost breakdown
+      </a>
+      <ul class="show-hide" id="treatment-cost">
+        <li class="lh"><strong>$425 per treatment</strong></li>
+        <li>47%: Operation</li>
+        <li>19%: Medication &amp; dressings</li>
+        <li>19%: Hospital stay (8 days)</li>
+        <li>9%: Lab tests, screening, grouping &amp; X-matching</li>
+        <li>6%: Anesthesia</li>
+      </ul>
+    </div>
+      </div>
+</div>              </section>
+                          </div>
+            <div class="small-12 medium-6 columns doctor-tile_location">
+              <i class="ss-location"></i>
+              <span>
+                Hargeisa, Somaliland              </span>
+            </div>
+          </div>
+
+        </div>
+
+        <div class="small-8 small-centered medium-3 medium-uncentered columns">
+          <div class="doc-pic_wrap">
+            <a href="http://www.samahope.org/doctor-shukri-and-naima/">
+              <img width="500" height="500" src="http://www.samahope.org/wp-content/uploads/2014/04/doctor-shukri-and-naima-thumbnail.jpg" class="attachment-post-thumbnail wp-post-image" alt="Dr. Shukri &amp; Dr. Naima" />            </a>
+          </div>
+          <div class="doc-pic_learn-more">
+            <a href="http://www.samahope.org/donate/?doc=doctor-shukri-and-naima" class="button primary full-width">Fund Work</a>
+            <a href="http://www.samahope.org/doctor-shukri-and-naima/" class="learn-more-link">or learn more&hellip;</a>
+          </div>
+        </div>
+
+      </section>
+
+    </div>
+  </article>  
+  <article id="post-1747" class="post-1747 post type-post status-publish format-standard has-post-thumbnail hentry category-doctors category-south-asia doctors south-asia not-home">
+    <div class="row margin-auto">
+
+      <section class="doctor-tile moat">
+
+        <section class="progress-bar_wrap">
+            <div class="progress-bar" title="3,323.15 raised towards the next treatment. 3 treatments funded so far.">            <span class="progress-unit" style="width: 100%;"></span>            <div class="progress-fill" style="width: 32.3%;"></div>
+          </div>
+        </section>
+
+        <div class="small-12 medium-9 columns content-column">
+          <header class="entry-header">
+            <div class="row">
+              <div class="small-12 medium-4 columns progress-bar_helper">
+                <span>
+                  $677 more needed
+                </span>
+              </div>
+              <div class="small-12 medium-8 columns doctor-tile_title">
+                <h1 class="entry-title"><a href="http://www.samahope.org/wangmo/" rel="bookmark">Wangmo Thapa</a></h1>
+              </div>
+            </div>
+          </header><!-- .entry-header -->
+
+          <section>
+            <p><strong>Over 100 safe births conducted in her first year as an active Skilled Birth Attendant. Help train new Skilled Birth Attendants to ensure safe births for more women across Nepal.</strong></p>
+<p>To date, 388 safe births have been funded by my &hellip;</p>
+          </section>
+
+          <div class="row margin-auto">
+            <div class="small-12 medium-6 columns">
+                            <section>
+                <div class="treatment-focus">
+  <div class="row">
+        <div class="small-3 columns treatment_badge">
+      <img class="badge birth-injuries" src="/wp-content/themes/samahope-underscore/images/icon-birth-injuries@2x.png" width="120" height="120">
+    </div>
+    <div class="small-9 columns treatment_description">
+      <h3>Training Focus: Safe Births</h3>
+      <p>
+        The 3-month training to become a certified Skilled Birth Attendant will teach Nepali nurses the necessary skills to provide essential medical care during pregnancy and birth and manage any complications. It will also equip them with safe birth kits necessary to use during deliveries, including pre-natal supplements, soap, a baby blanket and hat, and other supplies to minimize risk of infection.
+      </p>
+      <a href="#" class="show-toggle" rel="treatment-cost">
+        <i class="ss-plus plus-minus icon-circle"></i>
+        <span class="text">Show</span> cost breakdown
+      </a>
+      <ul class="show-hide" id="treatment-cost">
+        <li class="lh"><strong>$1,000 per Skilled Birth Attendant training</strong></li>
+        <li>50%: Tuition</li>
+        <li>30%: Travel expenses</li>
+        <li>20%: Living expenses</li>
+      </ul>
+    </div>
+      </div>
+</div>              </section>
+                          </div>
+            <div class="small-12 medium-6 columns doctor-tile_location">
+              <i class="ss-location"></i>
+              <span>
+                Chharka, Nepal              </span>
+            </div>
+          </div>
+
+        </div>
+
+        <div class="small-8 small-centered medium-3 medium-uncentered columns">
+          <div class="doc-pic_wrap">
+            <a href="http://www.samahope.org/wangmo/">
+              <img width="500" height="500" src="http://www.samahope.org/wp-content/uploads/2013/11/wangmo-thumbnail.jpg" class="attachment-post-thumbnail wp-post-image" alt="Wangmo Thata" />            </a>
+          </div>
+          <div class="doc-pic_learn-more">
+            <a href="http://www.samahope.org/donate/?doc=wangmo" class="button primary full-width">Fund Work</a>
+            <a href="http://www.samahope.org/wangmo/" class="learn-more-link">or learn more&hellip;</a>
+          </div>
+        </div>
+
+      </section>
+
+    </div>
+  </article>  
+  <article id="post-1736" class="post-1736 post type-post status-publish format-standard has-post-thumbnail hentry category-doctors category-sub-saharan-africa doctors sub-saharan-africa not-home">
+    <div class="row margin-auto">
+
+      <section class="doctor-tile moat">
+
+        <section class="progress-bar_wrap">
+            <div class="progress-bar" title="9,226.09 raised towards the next treatment. 24 treatments funded so far.">            <span class="progress-unit" style="width: 100%;"></span>            <div class="progress-fill" style="width: 96.36%;"></div>
+          </div>
+        </section>
+
+        <div class="small-12 medium-9 columns content-column">
+          <header class="entry-header">
+            <div class="row">
+              <div class="small-12 medium-4 columns progress-bar_helper">
+                <span>
+                  $14 more needed
+                </span>
+              </div>
+              <div class="small-12 medium-8 columns doctor-tile_title">
+                <h1 class="entry-title"><a href="http://www.samahope.org/doctor-priscilla/" rel="bookmark">Dr. Priscilla Busingye</a></h1>
+              </div>
+            </div>
+          </header><!-- .entry-header -->
+
+          <section>
+            <p><strong>Saving the lives of thousands of women in rural Uganda for 15 years.</strong></p>
+<p>I am a Catholic nun, the Medical Director of Holy Virika Family Hospital, and the only obstetrician and gynecologist in the Kabarole district of Uganda. I feel &hellip;</p>
+          </section>
+
+          <div class="row margin-auto">
+            <div class="small-12 medium-6 columns">
+                            <section>
+                <div class="treatment-focus">
+  <div class="row">
+
+    <div class="small-3 columns treatment_badge">
+      <img class="badge birth-injuries" src="/wp-content/themes/samahope-underscore/images/icon-birth-injuries.png" width="120" height="120" />
+    </div>
+    <div class="small-9 columns treatment_description">
+      <h3>Birth Injuries Focus</h3>
+      <p>
+        Obstetric fistula is a medical condition in which a hole develops in the 
+        bladder after severe or failed childbirth. It occurs more frequently in 
+        parts of the world without access to adequate healthcare resources. A 
+        caesarean section, a surgical procedure where incisions are made through 
+        the mother&rsquo;s abdomen to deliver the baby, may be required in a 
+        serious case of obstructed labor. 
+      </p>
+      <a href="#" class="show-toggle" rel="treatment-cost">
+        <i class="ss-plus plus-minus icon-circle"></i>
+        <span class="text">Show</span> cost breakdown
+      </a>
+      <ul class="show-hide" id="treatment-cost">
+        <li class="lh"><strong>$400 per fistula repair</strong></li>
+        <li>25%: Medicines</li>
+        <li>25%: Treatment</li>
+        <li>15%: Training</li>
+        <li>12.5%: Equipment &amp; supplies</li>
+        <li>12.5%: Accommodations &amp; food</li>
+        <li>10%: Transportation &amp; patient outreach</li>
+        <li class="lh"><strong>$370 per caesarean section</strong></li>
+        <li>27%: Treatment</li>
+        <li>22%: Medicines</li>
+        <li>16%: Training</li>
+        <li>13%: Accommodations &amp; food</li>
+        <li>11%: Equipment &amp; supplies</li>
+        <li>11%: Transportation &amp; patient outreach</li>
+      </ul>
+    </div>
+  </div>
+</div>              </section>
+                          </div>
+            <div class="small-12 medium-6 columns doctor-tile_location">
+              <i class="ss-location"></i>
+              <span>
+                Kabarole District, Uganda              </span>
+            </div>
+          </div>
+
+        </div>
+
+        <div class="small-8 small-centered medium-3 medium-uncentered columns">
+          <div class="doc-pic_wrap">
+            <a href="http://www.samahope.org/doctor-priscilla/">
+              <img width="500" height="500" src="http://www.samahope.org/wp-content/uploads/2013/11/doctor-priscilla-thumbnail.jpg" class="attachment-post-thumbnail wp-post-image" alt="Dr. Priscilla" />            </a>
+          </div>
+          <div class="doc-pic_learn-more">
+            <a href="http://www.samahope.org/donate/?doc=doctor-priscilla" class="button primary full-width">Fund Work</a>
+            <a href="http://www.samahope.org/doctor-priscilla/" class="learn-more-link">or learn more&hellip;</a>
+          </div>
+        </div>
+
+      </section>
+
+    </div>
+  </article>  
+  <article id="post-1543" class="post-1543 post type-post status-publish format-standard has-post-thumbnail hentry category-doctors category-sub-saharan-africa doctors sub-saharan-africa not-home">
+    <div class="row margin-auto">
+
+      <section class="doctor-tile moat">
+
+        <section class="progress-bar_wrap">
+            <div class="progress-bar" title="19,554.55 raised towards the next treatment. 20 treatments funded so far.">            <span class="progress-unit" style="width: 100%;"></span>            <div class="progress-fill" style="width: 55.4%;"></div>
+          </div>
+        </section>
+
+        <div class="small-12 medium-9 columns content-column">
+          <header class="entry-header">
+            <div class="row">
+              <div class="small-12 medium-4 columns progress-bar_helper">
+                <span>
+                  $446 more needed
+                </span>
+              </div>
+              <div class="small-12 medium-8 columns doctor-tile_title">
+                <h1 class="entry-title"><a href="http://www.samahope.org/doctor-maggi/" rel="bookmark">Dr. Darius Maggi</a></h1>
+              </div>
+            </div>
+          </header><!-- .entry-header -->
+
+          <section>
+            <p><strong>Over 15,000 babies delivered.</strong></p>
+<p>In 2002, I traveled to Sierra Leone to treat women with obstetric fistula, a debilitating birth complication that is almost never seen in countries like the US. Upon meeting and treating patients in Bo, Sierra Leone, &hellip;</p>
+          </section>
+
+          <div class="row margin-auto">
+            <div class="small-12 medium-6 columns">
+                            <section>
+                <div class="treatment-focus">
+  <div class="row">
+        <div class="small-3 columns treatment_badge">
+      <img class="badge birth-injuries" src="/wp-content/themes/samahope-underscore/images/icon-birth-injuries@2x.png" width="120" height="120">
+    </div>
+    <div class="small-9 columns treatment_description">
+      <h3>Birth Injuries Focus</h3>
+      <p>
+        Obstetric fistula is a medical condition in which a hole develops in the
+        bladder after severe or failed childbirth. It occurs more frequently in 
+        parts of the world without access to adequate healthcare resources.
+      </p>
+      <a href="#" class="show-toggle" rel="treatment-cost">
+        <i class="ss-plus plus-minus icon-circle"></i>
+        <span class="text">Show</span> cost breakdown
+      </a>
+      <ul class="show-hide" id="treatment-cost">
+        <li class="lh"><strong>$1,000 per fistula repair surgery</strong></li>
+        <li>40%: Treatment</li>
+        <li>30%: Accommodations &amp; food</li>
+        <li>20%: Patient transportation &amp; outreach</li>
+        <li>10%: Medicines &amp; vitamins</li>
+      </ul>
+    </div>
+      </div>
+</div>              </section>
+                          </div>
+            <div class="small-12 medium-6 columns doctor-tile_location">
+              <i class="ss-location"></i>
+              <span>
+                Bo, Sierra Leone              </span>
+            </div>
+          </div>
+
+        </div>
+
+        <div class="small-8 small-centered medium-3 medium-uncentered columns">
+          <div class="doc-pic_wrap">
+            <a href="http://www.samahope.org/doctor-maggi/">
+              <img width="500" height="500" src="http://www.samahope.org/wp-content/uploads/2013/09/doctor-maggi-thumbnail.jpg" class="attachment-post-thumbnail wp-post-image" alt="Dr. Darius Maggi" />            </a>
+          </div>
+          <div class="doc-pic_learn-more">
+            <a href="http://www.samahope.org/donate/?doc=doctor-maggi" class="button primary full-width">Fund Work</a>
+            <a href="http://www.samahope.org/doctor-maggi/" class="learn-more-link">or learn more&hellip;</a>
+          </div>
+        </div>
+
+      </section>
+
+    </div>
+  </article>  
+  <article id="post-1711" class="post-1711 post type-post status-publish format-standard has-post-thumbnail hentry category-doctors category-south-america doctors south-america not-home">
+    <div class="row margin-auto">
+
+      <section class="doctor-tile moat">
+
+        <section class="progress-bar_wrap">
+            <div class="progress-bar" title="3,672.08 raised towards the next treatment. 7 treatments funded so far.">            <span class="progress-unit" style="width: 100%;"></span>            <div class="progress-fill" style="width: 49.14%;"></div>
+          </div>
+        </section>
+
+        <div class="small-12 medium-9 columns content-column">
+          <header class="entry-header">
+            <div class="row">
+              <div class="small-12 medium-4 columns progress-bar_helper">
+                <span>
+                  $178 more needed
+                </span>
+              </div>
+              <div class="small-12 medium-8 columns doctor-tile_title">
+                <h1 class="entry-title"><a href="http://www.samahope.org/doctor-palacios/" rel="bookmark">Dr. Jorge Palacios</a></h1>
+              </div>
+            </div>
+          </header><!-- .entry-header -->
+
+          <section>
+            <p><strong>Over 14,000 free surgeries for the poor in Ecuador.</strong></p>
+<p>As a child, I was set on being a fighter pilot, but before I was admitted to the Air Force Academy, a book on 1985 Nobel Prize winner Dr. Albert Schweitzer’s &hellip;</p>
+          </section>
+
+          <div class="row margin-auto">
+            <div class="small-12 medium-6 columns">
+                            <section>
+                <div class="treatment-focus">
+  <div class="row">
+        <div class="small-3 columns treatment_badge">
+      <img class="badge burns" src="/wp-content/themes/samahope-underscore/images/icon-burns@2x.png" width="120" height="120">
+    </div>
+    <div class="small-9 columns treatment_description">
+      <h3>Burn Repair Focus</h3>
+      <p>
+        Without immediate access to acute burn care, burn 
+        injuries begin to heal themselves by tightening and pulling skin 
+        together to form scar tissue (contractures) while attaching to another 
+        body part. These contractures greatly inhibit function and movement, and 
+        can cause severe disabilities. Post-burn reconstructive surgery releases 
+        these contractures to restore previous mobility, function, and appearance.
+      </p>
+      <a href="#" class="show-toggle" rel="treatment-cost">
+        <i class="ss-plus plus-minus icon-circle"></i>
+        <span class="text">Show</span> cost breakdown
+      </a>
+      <ul class="show-hide" id="treatment-cost">
+                <li class="lh"><strong>Cost of treatment: $350.00</strong></li>
+        <li>25%: Equipment &amp; supplies</li>
+        <li>14%: Patient outreach &amp; transportation</li>
+        <li>61%: Treatment</li>
+              </ul>
+    </div>
+      </div>
+</div>              </section>
+                          </div>
+            <div class="small-12 medium-6 columns doctor-tile_location">
+              <i class="ss-location"></i>
+              <span>
+                Guayaquil, Ecuador              </span>
+            </div>
+          </div>
+
+        </div>
+
+        <div class="small-8 small-centered medium-3 medium-uncentered columns">
+          <div class="doc-pic_wrap">
+            <a href="http://www.samahope.org/doctor-palacios/">
+              <img width="500" height="500" src="http://www.samahope.org/wp-content/uploads/2013/10/doctor-palacios-thumbnail.jpg" class="attachment-post-thumbnail wp-post-image" alt="Dr. Jorge Palacios" />            </a>
+          </div>
+          <div class="doc-pic_learn-more">
+            <a href="http://www.samahope.org/donate/?doc=doctor-palacios" class="button primary full-width">Fund Work</a>
+            <a href="http://www.samahope.org/doctor-palacios/" class="learn-more-link">or learn more&hellip;</a>
+          </div>
+        </div>
+
+      </section>
+
+    </div>
+  </article>  
+  <article id="post-1733" class="post-1733 post type-post status-publish format-standard has-post-thumbnail hentry category-doctors category-sub-saharan-africa doctors sub-saharan-africa not-home">
+    <div class="row margin-auto">
+
+      <section class="doctor-tile moat">
+
+        <section class="progress-bar_wrap">
+            <div class="progress-bar" title="9,021.19 raised towards the next treatment. 7 treatments funded so far.">            <span class="progress-unit" style="width: 100%;"></span>            <div class="progress-fill" style="width: 24.06%;"></div>
+          </div>
+        </section>
+
+        <div class="small-12 medium-9 columns content-column">
+          <header class="entry-header">
+            <div class="row">
+              <div class="small-12 medium-4 columns progress-bar_helper">
+                <span>
+                  $142 more needed
+                </span>
+              </div>
+              <div class="small-12 medium-8 columns doctor-tile_title">
+                <h1 class="entry-title"><a href="http://www.samahope.org/doctor-robert/" rel="bookmark">Dr. Robert Kalyesubula</a></h1>
+              </div>
+            </div>
+          </header><!-- .entry-header -->
+
+          <section>
+            <p><strong>Over 70,000 patients treated in 13 years.</strong></p>
+<p>My name is Robert Kalyesubula. In 1984 my father was killed in a war in Luwero Uganda when I was only 8 years old. My mother disappeared at the same time, and my &hellip;</p>
+          </section>
+
+          <div class="row margin-auto">
+            <div class="small-12 medium-6 columns">
+                            <section>
+                <div class="treatment-focus">
+  <div class="row">
+        <div class="small-3 columns treatment_badge">
+      <img class="badge birth-injuries" src="/wp-content/themes/samahope-underscore/images/icon-birth-injuries@2x.png" width="120" height="120">
+    </div>
+    <div class="small-9 columns treatment_description">
+      <h3>Obstructed Labor Focus</h3>
+      <p>
+        Obstructed labour is an abnormal or strenuous childbirth or labor. This 
+        can be caused by a number of factors, such as a prolonged labor, 
+        haemorrhage, lack of adequate prenatal care, etc. A caesarean section, a 
+        surgical procedure where incisions are made through the mother’s abdomen 
+        to deliver the baby, may be required in a serious case.
+      </p>
+      <a href="#" class="show-toggle" rel="treatment-cost">
+        <i class="ss-plus plus-minus icon-circle"></i>
+        <span class="text">Show</span> cost breakdown
+      </a>
+      <ul class="show-hide" id="treatment-cost">
+        <li class="lh"><strong>$247 per obstructed labor treatment</strong></li>
+        <li>24%: Equipment &amp; supplies</li>
+        <li>23%: Medicines</li>
+        <li>18%: Treatment</li>
+        <li>17%: Accommodations &amp; food</li>
+        <li>12%: Transportation &amp; patient outreach</li>
+        <li>6%: Training</li>
+        <li class="lh"><strong>$127 per caesarean section</strong></li>
+        <li>24%: Equipment &amp; supplies</li>
+        <li>23%: Medicines</li>
+        <li>22%: Treatment</li>
+        <li>16%: Transportation &amp; patient outreach</li>
+        <li>11%: Accommodations &amp; food</li>
+        <li>4%: Training</li>
+      </ul>
+    </div>
+      </div>
+</div>              </section>
+                          </div>
+            <div class="small-12 medium-6 columns doctor-tile_location">
+              <i class="ss-location"></i>
+              <span>
+                Nakaseke District, Uganda              </span>
+            </div>
+          </div>
+
+        </div>
+
+        <div class="small-8 small-centered medium-3 medium-uncentered columns">
+          <div class="doc-pic_wrap">
+            <a href="http://www.samahope.org/doctor-robert/">
+              <img width="500" height="500" src="http://www.samahope.org/wp-content/uploads/2013/10/doctor-robert-thumbnail.jpg" class="attachment-post-thumbnail wp-post-image" alt="Dr. Robert" />            </a>
+          </div>
+          <div class="doc-pic_learn-more">
+            <a href="http://www.samahope.org/donate/?doc=doctor-robert" class="button primary full-width">Fund Work</a>
+            <a href="http://www.samahope.org/doctor-robert/" class="learn-more-link">or learn more&hellip;</a>
+          </div>
+        </div>
+
+      </section>
+
+    </div>
+  </article>  
+  <article id="post-2056" class="post-2056 post type-post status-publish format-standard has-post-thumbnail hentry category-doctors category-south-asia doctors south-asia not-home">
+    <div class="row margin-auto">
+
+      <section class="doctor-tile moat">
+
+        <section class="progress-bar_wrap">
+            <div class="progress-bar" title="58,376.70 raised towards the next treatment. 7 treatments funded so far.">            <span class="progress-unit" style="width: 100%;"></span>            <div class="progress-fill" style="width: 75.2%;"></div>
+          </div>
+        </section>
+
+        <div class="small-12 medium-9 columns content-column">
+          <header class="entry-header">
+            <div class="row">
+              <div class="small-12 medium-4 columns progress-bar_helper">
+                <span>
+                  $124 more needed
+                </span>
+              </div>
+              <div class="small-12 medium-8 columns doctor-tile_title">
+                <h1 class="entry-title"><a href="http://www.samahope.org/doctor-sreemathi/" rel="bookmark">Dr. Sreemathi Seshadrinathan</a></h1>
+              </div>
+            </div>
+          </header><!-- .entry-header -->
+
+          <section>
+            <p><strong>31,100 surgeries performed in 42 years of which 90% of patients were underserved</strong></p>
+<p>I am a Professor and Senior Cardiovascular and Thoracic Surgeon at the Public Health and Welfare Centre in Chennai, India. I have always wanted to become a &hellip;</p>
+          </section>
+
+          <div class="row margin-auto">
+            <div class="small-12 medium-6 columns">
+                            <section>
+                <div class="treatment-focus">
+  <div class="row">
+        <div class="small-3 columns treatment_badge">
+      <img class="badge birth-defects" src="/wp-content/themes/samahope-underscore/images/icon-birth-defects@2x.png" width="120" height="120">
+    </div>
+    <div class="small-9 columns treatment_description">
+      <h3>Tetralogy of Fallot Focus</h3>
+      <p>
+        <a href="http://www.google.com/url?q=http%3A%2F%2Fwww.cdc.gov%2Fncbddd%2Fheartdefects%2Ftetralogyoffallot.html&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNHe5nkYRwnjug40Kze30f-oyW-Dcw" target="_blank">Tetralogy of fallot</a> 
+        hampers normal blood flow through the heart. It happens when a baby’s 
+        heart does not form correctly as the baby grows and develops in the 
+        mother’s womb. These problems range in severity from “holes” between 
+        chambers of the heart, to very severe malformations, such as complete 
+        absence of one or more chambers or valves. Tetralogy of Fallot occurs in 
+        approximately 400 per million live births and forms about 10% of 
+        <a href="http://www.google.com/url?q=http%3A%2F%2Fwww.samahope.org%2Fcongenital-heart-awareness-week%2F&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNGr1CarmvS60MR8yzji7lZYZK4yAA" target="_blank">congenital heart
+          disease</a>.
+      </p>
+      <a href="#" class="show-toggle" rel="treatment-cost">
+        <i class="ss-plus plus-minus icon-circle"></i>
+        <span class="text">Show</span> cost breakdown
+      </a>
+      <ul class="show-hide" id="treatment-cost">
+        <li class="lh"><strong>$500 per treatment</strong></li>
+        <li>30%: Patient travel</li>
+        <li>25%: Preoperative preparation</li>
+        <li>25%: Postoperative follow-up</li>
+        <li>20%: Patient Accommodation</li>
+      </ul>
+    </div>
+      </div>
+</div>              </section>
+                          </div>
+            <div class="small-12 medium-6 columns doctor-tile_location">
+              <i class="ss-location"></i>
+              <span>
+                Chennai, India              </span>
+            </div>
+          </div>
+
+        </div>
+
+        <div class="small-8 small-centered medium-3 medium-uncentered columns">
+          <div class="doc-pic_wrap">
+            <a href="http://www.samahope.org/doctor-sreemathi/">
+              <img width="576" height="576" src="http://www.samahope.org/wp-content/uploads/2014/03/doctor-sreemathi-thumbnail.jpg" class="attachment-post-thumbnail wp-post-image" alt="Dr. Sreemathi" />            </a>
+          </div>
+          <div class="doc-pic_learn-more">
+            <a href="http://www.samahope.org/donate/?doc=doctor-sreemathi" class="button primary full-width">Fund Work</a>
+            <a href="http://www.samahope.org/doctor-sreemathi/" class="learn-more-link">or learn more&hellip;</a>
+          </div>
+        </div>
+
+      </section>
+
+    </div>
+  </article>  
+  <article id="post-2561" class="post-2561 post type-post status-publish format-standard has-post-thumbnail hentry category-doctors category-usa doctors usa not-home">
+    <div class="row margin-auto">
+
+      <section class="doctor-tile moat">
+
+        <section class="progress-bar_wrap">
+            <div class="progress-bar" title="1,533.55 raised towards the next treatment. 7 treatments funded so far.">            <span class="progress-unit" style="width: 100%;"></span>            <div class="progress-fill" style="width: 22%;"></div>
+          </div>
+        </section>
+
+        <div class="small-12 medium-9 columns content-column">
+          <header class="entry-header">
+            <div class="row">
+              <div class="small-12 medium-4 columns progress-bar_helper">
+                <span>
+                  $117 more needed
+                </span>
+              </div>
+              <div class="small-12 medium-8 columns doctor-tile_title">
+                <h1 class="entry-title"><a href="http://www.samahope.org/doctor-mihaly/" rel="bookmark">Lisa Mihaly, FNP</a></h1>
+              </div>
+            </div>
+          </header><!-- .entry-header -->
+
+          <section>
+            <p><strong>Over 10,000 women treated in 15 years</strong><br />
+15 years ago, I was a public policy advocate on issues affecting low-income women and children. But I missed working with people directly. I decided to retrain as a nurse practitioner and started &hellip;</p>
+          </section>
+
+          <div class="row margin-auto">
+            <div class="small-12 medium-6 columns">
+                            <section>
+                <div class="treatment-focus">
+  <div class="row">
+        <div class="small-3 columns treatment_badge">
+      <img class="badge birth-injuries" src="/wp-content/themes/samahope-underscore/images/icon-birth-injuries@2x.png" width="120" height="120">
+    </div>
+    <div class="small-9 columns treatment_description">
+      <h3>Reproductive Health Focus</h3>
+      <p>
+       The American Cancer Society predicts that in 2014, more than 4,000 women will die of cervical cancer. In countries where women cannot get routine screenings, cervical cancer is a common cause of death in women. Even in the United States, cervical cancer rates are much higher among low-income, uninsured, and immigrant populations. A basic cervical cancer screening, including a pap smear, takes less than half an hour, and is crucial to the early detection and treatment of the disease. 
+      </p>
+      <a href="#" class="show-toggle" rel="treatment-cost">
+        <i class="ss-plus plus-minus icon-circle"></i>
+        <span class="text">Show cost breakdown</span>
+      </a>
+      <ul class="show-hide" id="treatment-cost">
+        <li class="lh"><strong>$150 per treatment</strong></li>
+        <li>50%: Evaluation & Assessment: Exams, taking medical history, checking blood pressure, screening for domestic violence/sexual abuse.</li>
+        <li>20%: Treatment: prescriptions, further screening via colpopscopy</li>
+        <li>20%: Equipment: medications to take home, client education materials, materials needed to treat acute conditions in the clinic.</li>
+        <li>10%: Follow-up: labs, referrals to outside agencies, care coordination, and follow-up appointments.</li>
+      </ul>
+    </div>
+      </div>
+</div>              </section>
+                          </div>
+            <div class="small-12 medium-6 columns doctor-tile_location">
+              <i class="ss-location"></i>
+              <span>
+                San Francisco, USA              </span>
+            </div>
+          </div>
+
+        </div>
+
+        <div class="small-8 small-centered medium-3 medium-uncentered columns">
+          <div class="doc-pic_wrap">
+            <a href="http://www.samahope.org/doctor-mihaly/">
+              <img width="500" height="500" src="http://www.samahope.org/wp-content/uploads/2014/09/doctor-mihaly-thumbnail.jpg" class="attachment-post-thumbnail wp-post-image" alt="Doctor Mihaly" />            </a>
+          </div>
+          <div class="doc-pic_learn-more">
+            <a href="http://www.samahope.org/donate/?doc=doctor-mihaly" class="button primary full-width">Fund Work</a>
+            <a href="http://www.samahope.org/doctor-mihaly/" class="learn-more-link">or learn more&hellip;</a>
+          </div>
+        </div>
+
+      </section>
+
+    </div>
+  </article>  
+  <article id="post-2059" class="post-2059 post type-post status-publish format-standard has-post-thumbnail hentry category-doctors category-south-america doctors south-america not-home">
+    <div class="row margin-auto">
+
+      <section class="doctor-tile moat">
+
+        <section class="progress-bar_wrap">
+            <div class="progress-bar" title="4,365.34 raised towards the next treatment. 7 treatments funded so far.">            <span class="progress-unit" style="width: 100%;"></span>            <div class="progress-fill" style="width: 73%;"></div>
+          </div>
+        </section>
+
+        <div class="small-12 medium-9 columns content-column">
+          <header class="entry-header">
+            <div class="row">
+              <div class="small-12 medium-4 columns progress-bar_helper">
+                <span>
+                  $135 more needed
+                </span>
+              </div>
+              <div class="small-12 medium-8 columns doctor-tile_title">
+                <h1 class="entry-title"><a href="http://www.samahope.org/doctor-pietro/" rel="bookmark">Dr. Pietro Gamba</a></h1>
+              </div>
+            </div>
+          </header><!-- .entry-header -->
+
+          <section>
+            <p><strong>Performed over 3,300 surgeries in 28 years</strong></p>
+<p>When I was 23 years old, after being trained as a mechanic, I chose the civil service over the military service and went to the poorest regions of Bolivia. I lived for 3 &hellip;</p>
+          </section>
+
+          <div class="row margin-auto">
+            <div class="small-12 medium-6 columns">
+                            <section>
+                <div class="treatment-focus">
+  <div class="row">
+        <div class="small-3 columns treatment_badge">
+      <img class="badge trauma" src="/wp-content/themes/samahope-underscore/images/icon-trauma@2x.png" width="120" height="120">
+    </div>
+    <div class="small-9 columns treatment_description">
+      <h3>Trauma Focus</h3>
+      <p>
+        <a href="http://www.google.com/url?q=http%3A%2F%2Fmedical-dictionary.thefreedictionary.com%2FHematogenous%2BOsteomyelitis&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNHOERNJ2kSw6WdgRh593WjlMLLT2Q" target="_blank">Hematogenous Osteomyelitis</a>
+        is a severe infection that spreads to the bones through blood. It is a 
+        disease of the poor, instigated by immune depression and malnutrition. 
+        For a malnourished child, a simple bumping of the leg when playing can 
+        result in a severe infection that spreads through the blood and infects 
+        the bones. In the poorest areas of Bolivia this disease primarily affects 
+        children.  In tragic cases, this infection can lead to limb amputation or 
+        death. It requires a complex treatment including balanced nutrition, 
+        medication and surgeries to treat the infected bone.
+      </p>
+      <a href="#" class="show-toggle" rel="treatment-cost">
+        <i class="ss-plus plus-minus icon-circle"></i>
+        <span class="text">Show</span> cost breakdown
+      </a>
+      <ul class="show-hide" id="treatment-cost">
+        <li class="lh"><strong>$500 per treatment</strong></li>
+        <li>45%: Treatment (Anesthesia and external Traumatologist Surgeon's fee)</li>
+        <li>30%: Medication &amp; treatment</li>
+        <li>15%: Accommodation and food </li>
+        <li>10%: Equipment (radiology and lab)</li>
+      </ul>
+    </div>
+      </div>
+</div>              </section>
+                          </div>
+            <div class="small-12 medium-6 columns doctor-tile_location">
+              <i class="ss-location"></i>
+              <span>
+                Anzaldo, Bolivia              </span>
+            </div>
+          </div>
+
+        </div>
+
+        <div class="small-8 small-centered medium-3 medium-uncentered columns">
+          <div class="doc-pic_wrap">
+            <a href="http://www.samahope.org/doctor-pietro/">
+              <img width="533" height="533" src="http://www.samahope.org/wp-content/uploads/2014/03/doctor-pietro-thumbnail.jpg" class="attachment-post-thumbnail wp-post-image" alt="Dr. Pietro" />            </a>
+          </div>
+          <div class="doc-pic_learn-more">
+            <a href="http://www.samahope.org/donate/?doc=doctor-pietro" class="button primary full-width">Fund Work</a>
+            <a href="http://www.samahope.org/doctor-pietro/" class="learn-more-link">or learn more&hellip;</a>
+          </div>
+        </div>
+
+      </section>
+
+    </div>
+  </article>  
+  <article id="post-2085" class="post-2085 post type-post status-publish format-standard has-post-thumbnail hentry category-doctors category-usa doctors usa not-home">
+    <div class="row margin-auto">
+
+      <section class="doctor-tile moat">
+
+        <section class="progress-bar_wrap">
+            <div class="progress-bar" title="826.15 raised towards the next treatment. 7 treatments funded so far.">            <span class="progress-unit" style="width: 100%;"></span>            <div class="progress-fill" style="width: 50.67%;"></div>
+          </div>
+        </section>
+
+        <div class="small-12 medium-9 columns content-column">
+          <header class="entry-header">
+            <div class="row">
+              <div class="small-12 medium-4 columns progress-bar_helper">
+                <span>
+                  $74 more needed
+                </span>
+              </div>
+              <div class="small-12 medium-8 columns doctor-tile_title">
+                <h1 class="entry-title"><a href="http://www.samahope.org/doctor-burke/" rel="bookmark">Dr. Nadine Burke Harris</a></h1>
+              </div>
+            </div>
+          </header><!-- .entry-header -->
+
+          <section>
+            <p>I’ve wanted to be a pediatrician since I was 4 years old. My parents are Jamaican, my father was a biochemist and my mother was a nurse. I was born in Canada and we moved back to Jamaica for several &hellip;</p>
+          </section>
+
+          <div class="row margin-auto">
+            <div class="small-12 medium-6 columns">
+                            <section>
+                <div class="treatment-focus">
+  <div class="row">
+        <div class="small-3 columns treatment_badge">
+      <img class="badge trauma" src="/wp-content/themes/samahope-underscore/images/icon-trauma@2x.png" width="120" height="120">
+    </div>
+    <div class="small-9 columns treatment_description">
+      <h3>Trauma Focus</h3>
+      <p>
+        Many kids are repeatedly exposed to 
+        <a href="http://www.centerforyouthwellness.org/adverse-childhood-experiences-aces/" target="_blank">Adverse Childhood Experiences</a>. 
+        Adverse Childhood Experiences (ACEs) are defined as exposure to physical, 
+        emotional, or sexual abuse; neglect; parental mental illness; substance 
+        use or incarceration; domestic violence and/or parental separation. The 
+        child’s ‘fight or flight’ system is activated so often that it stays on, 
+        leading to high levels of emergency hormones that change the structure and 
+        function of children’s developing brains and bodies. The more ACEs a child 
+        has been exposed to, the higher the risk of developing chronic illnesses 
+        such as heart disease, chronic obstructive pulmonary disease, depression, 
+        and even cancer.
+      </p>
+      <p>
+        In our center, we assess children for exposure to Adverse Childhood 
+        Experiences and implement a multidisciplinary treatment plan using 
+        evidence-based and promising practices.
+      </p>
+      <a href="#" class="show-toggle" rel="treatment-cost">
+        <i class="ss-plus plus-minus icon-circle"></i>
+        <span class="text">Show</span> cost breakdown
+      </a>
+      <ul class="show-hide" id="treatment-cost">
+        <li class="lh"><strong>$150 per assessment of exposure to Adverse
+          Childhood Experiences (ACEs)</strong></li>
+        <li>50%: Treatment</li>
+        <li>25%: Ongoing assessments &amp; support</li>
+        <li>15%: Equipment &amp; supplies</li>
+        <li>10%: Patient outreach &amp; home visits</li>
+      </ul>
+    </div>
+      </div>
+</div>              </section>
+                          </div>
+            <div class="small-12 medium-6 columns doctor-tile_location">
+              <i class="ss-location"></i>
+              <span>
+                San Francisco, USA              </span>
+            </div>
+          </div>
+
+        </div>
+
+        <div class="small-8 small-centered medium-3 medium-uncentered columns">
+          <div class="doc-pic_wrap">
+            <a href="http://www.samahope.org/doctor-burke/">
+              <img width="500" height="500" src="http://www.samahope.org/wp-content/uploads/2014/04/doctor-burke-thumbnail.jpg" class="attachment-post-thumbnail wp-post-image" alt="Doctor Burke" />            </a>
+          </div>
+          <div class="doc-pic_learn-more">
+            <a href="http://www.samahope.org/donate/?doc=doctor-burke" class="button primary full-width">Fund Work</a>
+            <a href="http://www.samahope.org/doctor-burke/" class="learn-more-link">or learn more&hellip;</a>
+          </div>
+        </div>
+
+      </section>
+
+    </div>
+  </article>  
+  <article id="post-1710" class="post-1710 post type-post status-publish format-standard has-post-thumbnail hentry category-doctors category-sub-saharan-africa doctors sub-saharan-africa not-home">
+    <div class="row margin-auto">
+
+      <section class="doctor-tile moat">
+
+        <section class="progress-bar_wrap">
+            <div class="progress-bar" title="3,693.20 raised towards the next treatment. 6 treatments funded so far.">            <span class="progress-unit" style="width: 100%;"></span>            <div class="progress-fill" style="width: 55.14%;"></div>
+          </div>
+        </section>
+
+        <div class="small-12 medium-9 columns content-column">
+          <header class="entry-header">
+            <div class="row">
+              <div class="small-12 medium-4 columns progress-bar_helper">
+                <span>
+                  $157 more needed
+                </span>
+              </div>
+              <div class="small-12 medium-8 columns doctor-tile_title">
+                <h1 class="entry-title"><a href="http://www.samahope.org/doctor-jovic/" rel="bookmark">Dr. Goran Jovic</a></h1>
+              </div>
+            </div>
+          </header><!-- .entry-header -->
+
+          <section>
+            <p><strong>Over 2000 surgeries completed in 14 years.</strong><br />
+In the late 1990s, I fled the war in my native Serbia and moved to Zambia, where I am the only reconstructive plastic surgeon serving the country’s 14 million people. In Zambia, I &hellip;</p>
+          </section>
+
+          <div class="row margin-auto">
+            <div class="small-12 medium-6 columns">
+                            <section>
+                <div class="treatment-focus">
+  <div class="row">
+        <div class="small-3 columns treatment_badge">
+      <img class="badge burns" src="/wp-content/themes/samahope-underscore/images/icon-burns@2x.png" width="120" height="120">
+    </div>
+    <div class="small-9 columns treatment_description">
+      <h3>Burn Repair Focus</h3>
+      <p>
+        Without immediate access to acute burn care, burn 
+        injuries begin to heal themselves by tightening and pulling skin 
+        together to form scar tissue (contractures) while attaching to another 
+        body part. These contractures greatly inhibit function and movement, and 
+        can cause severe disabilities. Post-burn reconstructive surgery releases 
+        these contractures to restore previous mobility, function, and appearance.
+      </p>
+      <a href="#" class="show-toggle" rel="treatment-cost">
+        <i class="ss-plus plus-minus icon-circle"></i>
+        <span class="text">Show</span> cost breakdown
+      </a>
+      <ul class="show-hide" id="treatment-cost">
+                <li class="lh"><strong>Cost of treatment: $350.00</strong></li>
+        <li>17%: Equipment &amp; supplies</li>
+        <li>23%: Patient outreach &amp; transportation</li>
+        <li>60%: Treatment</li>
+              </ul>
+    </div>
+      </div>
+</div>              </section>
+                          </div>
+            <div class="small-12 medium-6 columns doctor-tile_location">
+              <i class="ss-location"></i>
+              <span>
+                Lusaka, Zambia and rural outskirts              </span>
+            </div>
+          </div>
+
+        </div>
+
+        <div class="small-8 small-centered medium-3 medium-uncentered columns">
+          <div class="doc-pic_wrap">
+            <a href="http://www.samahope.org/doctor-jovic/">
+              <img width="500" height="500" src="http://www.samahope.org/wp-content/uploads/2013/10/doctor-jovic-thumbnail.jpg" class="attachment-post-thumbnail wp-post-image" alt="Dr. Goran Jovic" />            </a>
+          </div>
+          <div class="doc-pic_learn-more">
+            <a href="http://www.samahope.org/donate/?doc=doctor-jovic" class="button primary full-width">Fund Work</a>
+            <a href="http://www.samahope.org/doctor-jovic/" class="learn-more-link">or learn more&hellip;</a>
+          </div>
+        </div>
+
+      </section>
+
+    </div>
+  </article>  
+  <article id="post-1756" class="post-1756 post type-post status-publish format-standard has-post-thumbnail hentry category-doctors category-south-asia doctors south-asia not-home">
+    <div class="row margin-auto">
+
+      <section class="doctor-tile moat">
+
+        <section class="progress-bar_wrap">
+            <div class="progress-bar" title="3,981.26 raised towards the next treatment. 7 treatments funded so far.">            <span class="progress-unit" style="width: 100%;"></span>            <div class="progress-fill" style="width: 95.25%;"></div>
+          </div>
+        </section>
+
+        <div class="small-12 medium-9 columns content-column">
+          <header class="entry-header">
+            <div class="row">
+              <div class="small-12 medium-4 columns progress-bar_helper">
+                <span>
+                  $19 more needed
+                </span>
+              </div>
+              <div class="small-12 medium-8 columns doctor-tile_title">
+                <h1 class="entry-title"><a href="http://www.samahope.org/doctor-rai/" rel="bookmark">Dr. Shankar Rai</a></h1>
+              </div>
+            </div>
+          </header><!-- .entry-header -->
+
+          <section>
+            <p><strong>More than 12,000 free surgeries provided to the rural poor of Nepal.</strong></p>
+<p>After I saw an American surgeon perform a cleft lip surgery in 1992, I decided to switch from cardiac to reconstructive surgery. I was lucky enough to train &hellip;</p>
+          </section>
+
+          <div class="row margin-auto">
+            <div class="small-12 medium-6 columns">
+                            <section>
+                <div class="treatment-focus">
+  <div class="row">
+        <div class="small-3 columns treatment_badge">
+      <img class="badge burns" src="/wp-content/themes/samahope-underscore/images/icon-burns@2x.png" width="120" height="120">
+    </div>
+    <div class="small-9 columns treatment_description">
+      <h3>Burn Repair Focus</h3>
+      <p>
+        Without immediate access to acute burn care, burn 
+        injuries begin to heal themselves by tightening and pulling skin 
+        together to form scar tissue (contractures) while attaching to another 
+        body part. These contractures greatly inhibit function and movement, and 
+        can cause severe disabilities. Post-burn reconstructive surgery releases 
+        these contractures to restore previous mobility, function, and appearance.
+      </p>
+      <a href="#" class="show-toggle" rel="treatment-cost">
+        <i class="ss-plus plus-minus icon-circle"></i>
+        <span class="text">Show</span> cost breakdown
+      </a>
+      <ul class="show-hide" id="treatment-cost">
+                <li class="lh"><strong>Cost of treatment: $400.00</strong></li>
+        <li>63%: Treatment</li>
+        <li>19%: Equipment &amp; supplies</li>
+        <li>10%: Patient outreach &amp; transportation</li>
+        <li>8%: Accommodations &amp; food</li>
+              </ul>
+    </div>
+      </div>
+</div>              </section>
+                          </div>
+            <div class="small-12 medium-6 columns doctor-tile_location">
+              <i class="ss-location"></i>
+              <span>
+                Kathmandu, Nepal              </span>
+            </div>
+          </div>
+
+        </div>
+
+        <div class="small-8 small-centered medium-3 medium-uncentered columns">
+          <div class="doc-pic_wrap">
+            <a href="http://www.samahope.org/doctor-rai/">
+              <img width="500" height="500" src="http://www.samahope.org/wp-content/uploads/2013/11/doctor-rai-thumbnail.jpg" class="attachment-post-thumbnail wp-post-image" alt="Dr. Shankar Rai" />            </a>
+          </div>
+          <div class="doc-pic_learn-more">
+            <a href="http://www.samahope.org/donate/?doc=doctor-rai" class="button primary full-width">Fund Work</a>
+            <a href="http://www.samahope.org/doctor-rai/" class="learn-more-link">or learn more&hellip;</a>
+          </div>
+        </div>
+
+      </section>
+
+    </div>
+  </article>  
+  <article id="post-2556" class="post-2556 post type-post status-publish format-standard has-post-thumbnail hentry category-doctors category-usa doctors usa not-home">
+    <div class="row margin-auto">
+
+      <section class="doctor-tile moat">
+
+        <section class="progress-bar_wrap">
+            <div class="progress-bar" title="8,018.60 raised towards the next treatment. 7 treatments funded so far.">            <span class="progress-unit" style="width: 100%;"></span>            <div class="progress-fill" style="width: 55.38%;"></div>
+          </div>
+        </section>
+
+        <div class="small-12 medium-9 columns content-column">
+          <header class="entry-header">
+            <div class="row">
+              <div class="small-12 medium-4 columns progress-bar_helper">
+                <span>
+                  $15 more needed
+                </span>
+              </div>
+              <div class="small-12 medium-8 columns doctor-tile_title">
+                <h1 class="entry-title"><a href="http://www.samahope.org/doctor-nam/" rel="bookmark">Dr. Daniel Nam</a></h1>
+              </div>
+            </div>
+          </header><!-- .entry-header -->
+
+          <section>
+            <p><strong>Getting homeless people out of pain for 11 years.</strong></p>
+<p>I am a volunteer dentist at the Suitcase Clinic and have offered my services to the poor and homeless since 2003. My background is in classical music: teaching piano lessons, managing &hellip;</p>
+          </section>
+
+          <div class="row margin-auto">
+            <div class="small-12 medium-6 columns">
+                            <section>
+                <div class="treatment-focus">
+  <div class="row">
+        <div class="small-3 columns treatment_badge">
+      <img class="badge trauma" src="/wp-content/themes/samahope-underscore/images/icon-trauma@2x.png" width="120" height="120">
+    </div>
+    <div class="small-9 columns treatment_description">
+      <h3>Health Kit Focus</h3>
+      <p>The Suitcase Clinic pharmacy provides medicines and ointments for conditions that are common within the local homeless population, such as scabies and major rashes. We also partner with different pharmacies in the local area. 
+
+The critical health kits that we distribute to homeless people also includes hygiene supplies and basic medical items such a toothbrush, toothpaste, band-aids, pain killers, and clean socks. These items make the difference between leading a productive life or being held back with increasingly serious medical conditions. 
+      </p>
+      <a href="#" class="show-toggle" rel="treatment-cost">
+        <i class="ss-plus plus-minus icon-circle"></i>
+        <span class="text">Show</span> cost breakdown
+      </a>
+      <ul class="show-hide" id="treatment-cost">
+        <li class="lh"><strong>$32.50 per treatment</strong></li>
+        <li>31%: Sleeping Bag</li>        
+        <li>19%: First aid supplies (including Ibuprofen, bandages, bandaids, antibiotic ointment)</li>
+        <li>16%: Hygiene supplies (including a bar of soap, razors, toothpaste and a toothbrush)</li>
+        <li>14%: Blankets</li>        
+        <li>10%: Water bottle with filter</li>
+        <li>4%: Multivitamins</li>
+        <li>3%: Clean socks</li>
+        <li>3%: Tote bag</li>
+      </ul>
+    </div>
+      </div>
+</div>              </section>
+                          </div>
+            <div class="small-12 medium-6 columns doctor-tile_location">
+              <i class="ss-location"></i>
+              <span>
+                Berkeley, USA              </span>
+            </div>
+          </div>
+
+        </div>
+
+        <div class="small-8 small-centered medium-3 medium-uncentered columns">
+          <div class="doc-pic_wrap">
+            <a href="http://www.samahope.org/doctor-nam/">
+              <img width="500" height="500" src="http://www.samahope.org/wp-content/uploads/2014/09/doctor-nam-thumbnail.jpg" class="attachment-post-thumbnail wp-post-image" alt="Doctor Nam" />            </a>
+          </div>
+          <div class="doc-pic_learn-more">
+            <a href="http://www.samahope.org/donate/?doc=doctor-nam" class="button primary full-width">Fund Work</a>
+            <a href="http://www.samahope.org/doctor-nam/" class="learn-more-link">or learn more&hellip;</a>
+          </div>
+        </div>
+
+      </section>
+
+    </div>
+  </article>
+    </main><!-- #main -->
+  </section><!-- #primary -->
+
+	<div class="medium-4 columns">
+		<div id="secondary" class="widget-area" role="complementary">
+
+						
+		</div><!-- #secondary -->
+	</div>
+      </div><!-- ... .columns -->
+  	</div><!-- #content -->
+  </div>
+
+  <div class="push"></div>
+</div><!-- #page -->
+
+<footer class="site-footer" role="contentinfo">
+	<div class="row">
+    <div class="small-12 medium-6 medium-push-3 columns">
+      <nav class="footer-nav">
+        <ul class="footer-navigation">
+                    <div class="row">
+            <div class="medium-6 columns __no-padding">
+              <li><a href="http://www.samahope.org/donate/?doc=doctor-shukri-and-naima"><strong>Fund Doctors</strong></a></li>
+              <li><a href="http://www.samahope.org/blog">Blog</a></li>
+              <li><a href="http://www.samahope.org/press">Press</a></li>
+              <li><a href="http://www.samahope.org/gifts">Gifts</a></li>
+            </div>
+            <div class="medium-6 columns __no-padding">
+              <li><a href="http://www.samahope.org/about/#team">Team</a></li>
+              <li><a href="http://www.samahope.org/jobs">Jobs</a></li>
+              <li><a href="http://www.samahope.org/faq">FAQ</a></li>
+              <li><a href="http://www.samahope.org/contact">Contact</a></li>
+            </div>
+          </div>
+        </ul>
+      </nav>
+    </div>
+    <div class="__no-padding small-12 medium-3 medium-pull-6 columns">
+      <div class="row">
+        <div class="social_wrap three-col">
+          <div class="social_item twitter"><a href="https://twitter.com/Samahope" class="twitter-follow-button" data-show-count="false">Follow @Samahope</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></div><div class="social_item facebook"><div class="fb-like" data-href="https://www.facebook.com/samahope.org" data-width="100%" data-height="20px" data-colorscheme="light" data-layout="button_count" data-action="like" data-show-faces="false" data-send="false"></div></div><div class="social_item pinterest"><a data-pin-do="buttonFollow" href="http://www.pinterest.com/samahope/">Samahope</a></div><div class="social_item instagram"><style>.ig-b- { display: inline-block; }.ig-b- img { visibility: hidden; }.ig-b-:hover { background-position: 0 -60px; } .ig-b-:active { background-position: 0 -120px; }.ig-b-v-24 { width: 137px; height: 24px; background: url(//badges.instagram.com/static/images/ig-badge-view-sprite-24.png) no-repeat 0 0; }@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2 / 1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {.ig-b-v-24 { background-image: url(//badges.instagram.com/static/images/ig-badge-view-sprite-24@2x.png); background-size: 160px 178px; } }</style><a href="http://instagram.com/samahope?ref=badge" class="ig-b- ig-b-v-24" target="_blank"><img src="//badges.instagram.com/static/images/ig-badge-view-24.png" alt="Instagram" /></a></div>        </div>
+      </div>
+    </div>
+    <div class="colophon __no-padding small-12 medium-3 columns">
+      <form id="newsletter" class="newsletter-signup" action="">
+  <div id="newsletter-alert" data-alert class="alert-box info radius">
+  </div>
+
+  <div class="row collapse newsletter-signup_container">
+    <div class="small-12 columns">
+      <label class="tiny-text">Join our Newsletter</label>
+    </div>
+    <div class="small-8 columns email-input">
+      <input name="email" type="email" placeholder="your@email.com" required/>
+    </div>
+    <div class="small-4 columns submit-input">
+      <input type="submit" class="button primary" value="Join"/>
+    </div>
+  </div>
+</form>
+      <small><a href="http://www.samahope.org/faq/#donation-tax-deductible" class="footer-npo-status">Samahope is a registered 501(c)(3)</a>
+      <div class="copyright">&copy; Copyright 2015</div></small>
+    </div>
+  </div>
+
+</footer>
+
+<div class="modal_overlay"></div>
+
+<script type='text/javascript' src='http://www.samahope.org/wp-content/themes/samahope-underscore/dist/lib.min.js?ver=4.0'></script>
+
+<!--[if (lt IE 9) & (!IEMobile)]>
+<script src="http://www.samahope.org/wp-content/themes/samahope-underscore/js/css3-mediaqueries.js"></script>
+<![endif]-->
+</body>
+</html>
