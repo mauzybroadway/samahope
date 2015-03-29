@@ -1,0 +1,34 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Samahope Doctor</title>
+    </head>
+
+    <body>
+        <p id="data">
+            <script type="text/javascript">
+				var xmlhttp = new XMLHTTPRequest();
+				var url = "http://skaben.ga:28017/samahope/doctors/";
+				xmlhttp.onreadystatechange = function() {
+    				if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
+        				var args = JSON.parse(xmlhttp.responseText);
+        				read(args);
+					}
+   				}            
+            	
+				xmlhttp.open("GET", url, true);
+				xmlhttp.send();
+				function read(arr) {
+					var out = "";
+    				var i;
+    				for(i = 0; i < arr.length; i++) {
+        				out += '<a href="' + arr[i].url + '">' + 
+        				arr[i].display + '</a><br>';
+    				}
+					document.getElementById("data").innerHTML = arr.name;
+				}
+			</script>
+        </p>
+    </body>
+</html>

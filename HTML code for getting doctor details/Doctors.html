@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>TODO supply a title</title>
+        <meta charset="windows-1252">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <style> 
+          .doctor1{background-color:#bce3c5; border: 1px solid black;} 
+             #snimka { display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+    .doctor1 p { text-align: center;}
+    .doctor1 a { text-align: center;}
+    
+        </style>
+        <script type="text/javascript" src="http://code.jquery.com/jquery.min.js"></script>
+<script type="text/javascript">
+    $(function(){
+        $.getJSON('newfile.py', function(data){
+            console.log('success');
+            $.each(data.employees,function(i,emp){
+                $('ul').append('<li>'+emp.firstName+' '+emp.lastName+'</li>');
+            });
+        }).error(function(){
+            console.log('error');
+        });
+    });
+</script>
+    </head>
+    <body>
+        <div class="doctor1">
+            <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRfKEdMdBBesAv84zT-cw3yoBsJ-PKn7tWp1pQKR8e90NMoaNiBPEQzgw" id="snimka" /> 
+            <p class="name">Name</p>
+            <p class="BDescription">Bold Description</p> 
+            <p class="Description">Description</p>
+            <p class="Location">Location</p> 
+            
+            <p class="TFocus">Treatment Focus</p> 
+            <p class="Dsr">Dollars so far: </p> 
+            <p class="Dneeded">Dollars needed: </p> 
+            <p class="donate"><a href="#"> Donate</a></p>
+            <p class="Badge">Badge title:</p> 
+            <p class="urlBadge"><a href="#">Badge url</a> 
+            <p class="Learn_More"><a href="#">Learn More </a></p>
+                        
+        
+  </div> 
+    </body>
+</html>
